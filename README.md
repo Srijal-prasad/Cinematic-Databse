@@ -1,6 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The Cinematic Database web application is a comprehensive platform designed for movie enthusiasts, TV show fans, and industry professionals. It serves as a one-stop destination for discovering detailed information about movies, TV shows, and actors. With a user-friendly interface and real-time data updates, users can explore extensive cinematic content effortlessly.
 
 Currently, two official plugins are available:
 
