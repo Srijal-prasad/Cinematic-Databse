@@ -5,8 +5,6 @@ The Cinematic Database web application is a comprehensive platform designed for 
 ## Features
 - 🔍 **Search**: Find movies, TV shows, and actors.
 - 📝 **Detailed Information**: View ratings, cast, release dates, and more.
-- 🔒 **User Authentication**: Sign up and log in to manage watchlists.
-- 📱 **Responsive Design**: Optimized for both mobile and desktop.
 - ⏱️ **Real-time Updates**: Fetches data from The Movie Database (TMDb) API.
 
 ## Technologies Used
